@@ -119,10 +119,11 @@ const styles = StyleSheet.create({
   },
   inputMail: {
     flex: 1,
-    marginLeft: -7,
+    marginLeft: 8,
   },
   inputPassword: {
     flex: 1,
+    marginLeft: 16,
   },
   buttonContainer: {
     width: 230,
